@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px/1.5 Helvetica Neue, Helvetica, Arial, Hiragino Sans GB, \5FAE\8F6F\96C5\9ED1, tahoma, simsun, \5b8b\4f53;
+  background: #F5F8F9;
+}
+
+.wrap {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+i, em {
+  font-style: normal;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}
+
+button, a {
+  outline: none;
+  border: none;
+}
